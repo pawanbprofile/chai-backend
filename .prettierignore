@@ -1,0 +1,11 @@
+/.vscode
+dist
+/build
+/coverage
+/node_modules
+package-lock.json
+yarn.lock
+
+*.env
+.env
+.env.*
